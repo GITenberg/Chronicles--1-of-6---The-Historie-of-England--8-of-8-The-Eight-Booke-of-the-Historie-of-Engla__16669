@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5166
     wikipedia: http://en.wikipedia.org/wiki/Raphael_Holinshed
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16669#Chronicles--1-of-6---The-Historie-of-England--8-of-8-The-Eight-Booke-of-the-Historie-of-Engla_
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2005-09-07'
 gutenberg_type: Text
