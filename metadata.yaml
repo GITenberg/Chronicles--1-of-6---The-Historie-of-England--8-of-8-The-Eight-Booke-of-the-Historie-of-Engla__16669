@@ -1,0 +1,36 @@
+_repo: Chronicles--1-of-6---The-Historie-of-England--8-of-8-The-Eight-Booke-of-the-Historie-of-Engla__16669
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holinshed, Raphael
+    aliases:
+    - Holinshed, Ralph
+    - Holinshead, Raphael
+    - Holingshed, Raphael
+    - Holinshed, Raphaell
+    - Holynshed, Raphael
+    gutenberg_agent_id: '5166'
+    url: http://www.gutenberg.org/2009/agents/5166
+    wikipedia: http://en.wikipedia.org/wiki/Raphael_Holinshed
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2005-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16669'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Harold, King of England, 1022?-1066'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Edward, the Confessor, 1042-1066'
+- !lcsh 'Hastings, Battle of, England, 1066'
+title: 'Chronicles (1 of 6): The Historie of England (8 of 8)
+
+  The Eight Booke of the Historie of England'
+url: http://www.gutenberg.org/ebooks/16669
